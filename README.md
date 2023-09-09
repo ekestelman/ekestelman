@@ -9,8 +9,9 @@ View the [repository](https://github.com/ekestelman/retirement-plans) or run it 
 
 ### Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ekestelman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!-- Use | - | to frame things -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ekestelman&layout=compact&theme=transparent&border_color=&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Use | - | to frame things
+try border with roughly RGB = 48, 118, 156 -->
 
 <!--
 **ekestelman/ekestelman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
