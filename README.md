@@ -1,11 +1,25 @@
 <!--### Hi there 👋-->
 ## Welcome to my Github 👋
 
+<!--
+### Current Project
+
+Check out my most recent project on retirement investment strategies! It's a tool to help you decide between contributing to a Roth or traditional retirement account.
+-->
+
 ### Check out my latest project!
 
 View the [repository](https://github.com/ekestelman/retirement-plans) or run it directly in your browser using [Google Colab](https://colab.research.google.com/drive/1fQHGKQeZxlU-GnJP_kfV_JBNT7Nr-kEf).
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fQHGKQeZxlU-GnJP_kfV_JBNT7Nr-kEf)
+
+<!--
+### More Projects
+
+Multi-body orbit simulation using second order Runge-Kutta [here](https://github.com/ekestelman/orbit-simulation).
+
+Variation of the traveling salesman problem [here](https://github.com/ekestelman/salesman-variations).
+-->
 
 ### Github Stats
 
