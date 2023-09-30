@@ -1,12 +1,13 @@
 <!--### Hi there 👋-->
 # Welcome to my Github 👋
 
+I like writing code to solve math problems :abacus:
 <!--
 ### Current Project
 
 Check out my most recent project on retirement investment strategies! It's a tool to help you decide between contributing to a Roth or traditional retirement account.
 -->
-
+<!--"### Check out my latest project on retirement strategies" then skip explanatory sentence? What about linking subheaders to repos?-->
 ### Check out my latest project!
 <!--"Check out my retirement tool! and scrap the description?-->
 It's a tool to help you decide between contributing to a Roth or traditional retirement account. View the [repository](https://github.com/ekestelman/retirement-plans) or run it directly in your browser using [Google Colab](https://colab.research.google.com/drive/1fQHGKQeZxlU-GnJP_kfV_JBNT7Nr-kEf).
