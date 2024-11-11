@@ -8,7 +8,7 @@ I like writing code to solve math problems :abacus:
 Check out my most recent project on retirement investment strategies! It's a tool to help you decide between contributing to a Roth or traditional retirement account.
 -->
 <!--"### Check out my latest project on retirement strategies" then skip explanatory sentence? What about linking subheaders to repos?-->
-### Check out my latest project!
+### Try out my retirement project!
 <!--"Check out my retirement tool! and scrap the description?-->
 It's a tool to help you decide between contributing to a Roth or traditional retirement account. View the [repository](https://github.com/ekestelman/retirement-plans) or run it directly in your browser using [Google Colab](https://colab.research.google.com/drive/1fQHGKQeZxlU-GnJP_kfV_JBNT7Nr-kEf).
 
@@ -22,6 +22,10 @@ It's a tool to help you decide between contributing to a Roth or traditional ret
   Multi-body orbit simulation using second order Runge-Kutta [here](https://github.com/ekestelman/orbit-simulation).
   
   Variation of the traveling salesman problem [here](https://github.com/ekestelman/salesman-variations).
+
+  Investment risk analysis using GBM [here](https://github.com/ekestelman/risk-over-time).
+
+  Wordle puzzle solver [here](https://github.com/ekestelman/wordle).
 </details>
 
 <!--
